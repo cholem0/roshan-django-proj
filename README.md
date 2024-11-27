@@ -1,4 +1,4 @@
-Project Setup Guide
+Roshan - Django Project Submission
 
 This repository contains an SQLite database that has already been pushed to the repository.
 
