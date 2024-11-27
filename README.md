@@ -1,7 +1,6 @@
 Project Setup Guide
 
-This repository contains an SQLite database that has already been pushed to the repository. Follow the instructions below for setup and default user credentials.
-Fresh Setup Instructions
+This repository contains an SQLite database that has already been pushed to the repository.
 
 If you want to start fresh, delete the following:
 
