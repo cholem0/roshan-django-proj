@@ -1,0 +1,1 @@
+0 0 * * * /usr/local/bin/python /app/roshan/cron_top_visited.py >> /var/log/cron.log 2>&1
