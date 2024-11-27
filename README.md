@@ -4,10 +4,7 @@ This repository contains an SQLite database that has already been pushed to the 
 
 If you want to start fresh, delete the following:
 
-    The database file:
-        Locate and delete the SQLite database file (e.g., db.sqlite3 or the file named in your project).
-    The migrations folders:
-        Found inside each app directory, typically named migrations/.
+    Database file and the migrations folders
 
 Available Default Users
 Superuser
